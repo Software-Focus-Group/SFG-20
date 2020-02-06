@@ -1,0 +1,7 @@
+bs4
+requests
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
